@@ -114,10 +114,8 @@ body{
     background-color:#0c0227;
     width: 100%;
 }
-.bosch{
+.tata{
     margin-top: 80px;
-    width: 160px;
-    height: 45px;
     opacity: 200;
 }
 .udgamShapping{
@@ -130,7 +128,7 @@ body{
     filter: brightness(100%);
     margin-bottom: 24px;
 }
-/*events*/
+/*animation*/
 
 
 

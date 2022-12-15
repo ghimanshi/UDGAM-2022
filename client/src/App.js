@@ -20,7 +20,7 @@ function App() {
       <Route exact path='/registration/failure' element={<RegFail/>}/>
       <Route exact path="/contactus" element={<Contactus />} />
     </Routes>
-
+    
     </Router>
     
     </body>
